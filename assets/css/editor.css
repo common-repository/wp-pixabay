@@ -1,0 +1,72 @@
+.wppb-sidebar-photo-list__search-form {
+  display: grid;
+  grid-template-columns: 1fr 40px;
+  align-items: stretch;
+  border: none;
+  padding: 10px 10px 0 10px; }
+  .wppb-sidebar-photo-list__search-form input {
+    margin: 0 5px 0 0;
+    border-radius: 4px;
+    border: none;
+    border-right: 1px solid #eee;
+    z-index: 1; }
+  .wppb-sidebar-photo-list__search-form .components-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #8d96a0; }
+.wppb-sidebar-photo {
+  position: relative;
+  display: block;
+  margin: 10px;
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+  min-height: 100px;
+  background: #eee; }
+  .wppb-sidebar-photo img {
+    display: block;
+    width: 100%; }
+
+.wppb-sidebar-photo__toolbar {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  text-align: right; }
+  .wppb-sidebar-photo__toolbar .components-icon-button {
+    display: inline-flex;
+    opacity: 0.9;
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 33.333%;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5); }
+    .wppb-sidebar-photo__toolbar .components-icon-button:last-child {
+      border-right: none !important; }
+    .wppb-sidebar-photo__toolbar .components-icon-button.button-primary {
+      color: #fff !important; }
+    .wppb-sidebar-photo__toolbar .components-icon-button .dashicons-plus {
+      padding-top: 2px; }
+    .wppb-sidebar-photo__toolbar .components-icon-button:hover:not(:disabled) {
+      opacity: 1; }
+
+.wppb-sidebar-photo__spinner-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.5); }
+  .wppb-sidebar-photo__spinner-container .spinner {
+    opacity: 1; }
+
+/*# sourceMappingURL=editor.css.map*/

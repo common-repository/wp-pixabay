@@ -1,0 +1,236 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Pixabay plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Pixabay 3.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-pixabay\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-09T02:03:07+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: wppb\n"
+
+#. Plugin Name of the plugin
+#: wpc-pixabay.php:54
+#: wpc-pixabay.php:58
+#: wpc-pixabay.php:102
+#: wpc-pixabay.php:116
+#: assets/js/editor.js:2009
+msgid "WPC Pixabay"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Pixabay helps you search millions of free photos, vectors and art illustrations from https://pixabay.com then insert into content or set as featured image very quickly."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-pixabay.php:58
+#: wpc-pixabay.php:84
+msgid "Pixabay"
+msgstr ""
+
+#: wpc-pixabay.php:103
+msgid "You can search & save the image(s) to Media Library."
+msgstr ""
+
+#: wpc-pixabay.php:119
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: wpc-pixabay.php:122
+msgid "Reviews"
+msgstr ""
+
+#: wpc-pixabay.php:124
+msgid "Changelog"
+msgstr ""
+
+#: wpc-pixabay.php:126
+msgid "Discussion"
+msgstr ""
+
+#: wpc-pixabay.php:133
+msgid "How to use?"
+msgstr ""
+
+#: wpc-pixabay.php:136
+#: wpc-pixabay.php:230
+msgid "Settings"
+msgstr ""
+
+#: wpc-pixabay.php:138
+#: wpc-pixabay.php:231
+msgid "Premium Version"
+msgstr ""
+
+#: wpc-pixabay.php:245
+msgid "Premium support"
+msgstr ""
+
+#: wpc-pixabay.php:368
+msgid "Language"
+msgstr ""
+
+#: wpc-pixabay.php:396
+msgid "Category"
+msgstr ""
+
+#: wpc-pixabay.php:420
+msgid "Type"
+msgstr ""
+
+#: wpc-pixabay.php:427
+msgid "Orientation"
+msgstr ""
+
+#: wpc-pixabay.php:434
+msgid "EditorsChoice"
+msgstr ""
+
+#: wpc-pixabay.php:439
+msgid "Order"
+msgstr ""
+
+#: wpc-pixabay.php:445
+msgid "SafeSearch"
+msgstr ""
+
+#: wpc-pixabay.php:452
+msgid "High-res"
+msgstr ""
+
+#: wpc-pixabay.php:462
+msgid "keyword"
+msgstr ""
+
+#: wpc-pixabay.php:466
+msgid "Search"
+msgstr ""
+
+#: wpc-pixabay.php:482
+msgid "Title"
+msgstr ""
+
+#: wpc-pixabay.php:489
+msgid "Caption"
+msgstr ""
+
+#: wpc-pixabay.php:496
+msgid "File name"
+msgstr ""
+
+#: wpc-pixabay.php:501
+msgid "Keep original file name"
+msgstr ""
+
+#: wpc-pixabay.php:504
+msgid "Generate from title"
+msgstr ""
+
+#: wpc-pixabay.php:511
+msgid "Size"
+msgstr ""
+
+#: wpc-pixabay.php:515
+msgid "width"
+msgstr ""
+
+#: wpc-pixabay.php:519
+msgid "height"
+msgstr ""
+
+#: wpc-pixabay.php:523
+msgid "Alignment"
+msgstr ""
+
+#: wpc-pixabay.php:528
+#: wpc-pixabay.php:547
+msgid "None"
+msgstr ""
+
+#: wpc-pixabay.php:531
+msgid "Left"
+msgstr ""
+
+#: wpc-pixabay.php:534
+msgid "Right"
+msgstr ""
+
+#: wpc-pixabay.php:537
+msgid "Center"
+msgstr ""
+
+#: wpc-pixabay.php:543
+msgid "Link to"
+msgstr ""
+
+#: wpc-pixabay.php:549
+msgid "Original site"
+msgstr ""
+
+#: wpc-pixabay.php:551
+msgid "Original image"
+msgstr ""
+
+#: wpc-pixabay.php:559
+msgid "Open new windows"
+msgstr ""
+
+#: wpc-pixabay.php:567
+msgid "Rel nofollow"
+msgstr ""
+
+#: wpc-pixabay.php:575
+msgid "Saving to Media Library..."
+msgstr ""
+
+#: wpc-pixabay.php:583
+msgid "Insert"
+msgstr ""
+
+#: wpc-pixabay.php:591
+msgid "Save&Insert"
+msgstr ""
+
+#: wpc-pixabay.php:597
+msgid "Featured"
+msgstr ""
+
+#: wpc-pixabay.php:607
+msgid "Save to Media Library"
+msgstr ""
+
+#: assets/js/editor.js:1664
+msgid "Search…"
+msgstr ""
+
+#: assets/js/editor.js:1769
+msgid "Photo by"
+msgstr ""
+
+#: assets/js/editor.js:1772
+msgid "on"
+msgstr ""
+
+#: assets/js/editor.js:1879
+msgid "Upload photo"
+msgstr ""
+
+#: assets/js/editor.js:1884
+msgid "Add photo"
+msgstr ""
